@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkjava_kickstart=self.webpackChunkjava_kickstart||[]).push([[1903],{1912:a=>{a.exports=JSON.parse('{"blogBasePath":"/java-kickstart/blog","blogTitle":"Blog","authorsListPath":"/java-kickstart/blog/authors"}')}}]);
