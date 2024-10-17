@@ -6,7 +6,7 @@ sidebar_position: 1
 
 Let's discover **Docusaurus in less than 5 minutes**.
 
-<code class ="codeBlockLines_FJaf"> Test Code</code>
+<code class ="codeBlockLines_FJaf">Test Code</code>
 
 ## Getting Started
 
